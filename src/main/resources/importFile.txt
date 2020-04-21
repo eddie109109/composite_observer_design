@@ -1,0 +1,7 @@
+d:root/
+d:root/dir1/
+d:root/dir2/ 
+f:root/file1.txt 
+f:root/dir1/file2.pdf 
+d:root/dir2/dir3/ 
+f:root/dir2/dir3/file3.png
